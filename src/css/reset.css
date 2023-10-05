@@ -1,0 +1,11 @@
+/* Esse arquivo e necessário para remover os seletores que vão tirar os padroes existentes no navegador*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
